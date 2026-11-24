@@ -2,7 +2,7 @@
 - Learn new program languages.
 -  Programming.
 -  System and cybersecurity.
--  Instagram @niphytic.
+-  Reddit @debuggeduser.
 
 <!---
 eyxem/eyxem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
