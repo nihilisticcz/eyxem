@@ -1,7 +1,7 @@
 
 - Learn new program languages.
 -  Programming.
--  System developer and game dev.
+-  System and cybersecurity.
 -  Instagram @niphytic.
 
 <!---
